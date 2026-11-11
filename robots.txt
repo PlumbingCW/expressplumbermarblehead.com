@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://expressplumbermarblehead.com/sitemap.xml
